@@ -24,3 +24,5 @@ This texture pack is included in the Texture Workshop so you can download it the
   - "More Difficulties" by Uproxide
   - "GodlikeFaces" by AdyaGD & hiimjustin000
   - "Grandpa Demon" by itzKiba (If you're even on a version of the game it works on lol)
+***
+Special thanks to **santicountryballsymas** for showing me how to use Happy Textures, and for providing a prototype!
