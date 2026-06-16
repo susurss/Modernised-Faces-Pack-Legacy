@@ -1,4 +1,10 @@
 # v1.3
+
+**Version 1.3.2**
+ - Utilised the "Happy Textures" mod to eliminate reliance on spritesheets, with the drawback of not being usable on non-geode clients anymore
+ - Now allows meshing of the pack with other packs that change textures on the same spritesheets
+ - Thanks to "santicountryballsymas" for pitching the idea and providing a prototype
+
 **Version 1.3.1**
  - Fixed More Difficulties spritesheets
  - Added the .plist files for More Difficulties sheets

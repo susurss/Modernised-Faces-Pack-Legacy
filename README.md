@@ -2,19 +2,22 @@
 
 This is an archived version of the Modernised Faces Pack, in case some of you don't like the upcoming revamped style of the pack
 
-This will NOT be updated except for keeping up with the game version
+This will NOT be updated unless it breaks
+
+**THIS PACK WILL NOT WORK WITHOUT HAPPY TEXTURES INSTALLED**
 
 # If Not Using Geode
 
-Download the texture sheets and replace the relevant ones in the "Resources" folder of your Geometry Dash
+Find the Version 1.3.1 release and replace the relevant files in Geometry Dash's "Resources" folder
 
 # If Using Geode
 
 Download these mods:
   - "Texture Loader" by Geode Team
   - "Texture Workshop" by Uproxide
+  - "Happy Textures x3c" by Alphalaneous
 
-This texture pack is included in the Texture Workshop so you can download it there to save some  hassle
+This texture pack is included in the Texture Workshop so you can download it there to save some hassle
 
 # Compatible Mods
 
