@@ -1,6 +1,6 @@
 # Welcome to my Museum Exhibit!
 
-This is an archived version of the Modernised Faces Pack, in case some of you don't like the upcoming revamped style of the pack
+This is an archived version of the Modernised Faces Pack, in case some of you don't like the upcoming revamped style of the pack. If you are looking for the 2.0 beta, you can find it here: https://github.com/susurss/Modernised-Faces-Pack/releases
 
 This will NOT be updated unless it breaks
 
